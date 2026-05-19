@@ -1,84 +1,60 @@
 # NGUYEN HUU PHU
 ## Backend Developer
 
----
-
-## 🎯 CAREER OBJECTIVE
-
-Results-oriented **Backend Developer** with over 2 years of experience in designing, building, and maintaining scalable server-side applications and robust APIs. Strong expertise in Node.js, Python, and PHP architectures, with a proven track record of optimizing database performance and integrating complex AI models into production environments. Passionate about system design, microservices, and delivering high-performance backend solutions.
+**Email:** nguyenhuuphu190502004@gmail.com | **Phone:** 0962954690 | **DOB:** 19/05/2004  
+**Location:** Cầu Giấy, Hà Nội | **GitHub:** https://github.com/phunhph | **English:** Technical reading; text/chat
 
 ---
 
-## 🛠 SKILLS & EXPERTISE
+## PROFILE
 
-| Category | Technologies & Tools |
-| :--- | :--- |
-| **Languages** | Python, Node.js (TypeScript/JavaScript), PHP, C#, SQL |
-| **Frameworks** | Express.js, Flask, Laravel |
-| **Databases** | PostgreSQL, MySQL, MongoDB, SQL Server |
-| **Architecture & APIs** | RESTful API Design, Microservices, System Architecture, RBAC |
-| **Tools & Environment** | Git, Docker, Postman, Linux VPS |
+~2 years backend focus: REST APIs, SQL/data layers, RBAC. Stack at work: **ASP.NET Core + SQL Server** and **Power Platform**. **PL-400** certified.
 
 ---
 
-## 💼 WORK EXPERIENCE
+## SKILLS
 
-### **Freelance (Remote)** | Sep 2023 – Present
-*Backend Developer*
+**Languages:** C#, Python, Node.js, PHP, SQL | **Frameworks:** .NET Core, EF Core, Express, Flask, Laravel  
+**Databases:** SQL Server, MySQL, PostgreSQL, MongoDB | **APIs:** REST, RBAC | **Platforms:** Power Apps, Automate, Dataverse, custom connectors  
+**Tools:** Git, Docker, Postman, Linux VPS
 
-#### **School Management Platform**
-- **Tech Stack:** Node.js, Express.js, MySQL
-- **Key Contributions:**
-  - Architected and implemented a robust Role-Based Access Control (RBAC) system for secure authorization.
-  - Developed efficient RESTful APIs for real-time notification modules and comprehensive administrative operations.
-  - Designed complex database schemas and optimized SQL queries to handle large volumes of student and staff data.
+---
+
+## WORK EXPERIENCE
+
+### **HBLAB Joint Stock Company** | May 2025 – Present
+
+**MIESArchitectX** (Jul–Nov 2025) — .NET Core, EF Core, SQL Server  
+- REST APIs, EF data layers, schema migrations, and query optimization for production.
+
+**CRM Internal** (Dec 2025 – Present) — .NET, Power Platform  
+- .NET integrations, server-side CRM logic, Power Apps/flows, and custom connectors.
 
 ### **247 Technical** | May 2024 – May 2025
-*Backend Developer*
 
-#### **Menas Project** (Internal Product & HR Management)
-- **Tech Stack:** Python, Flask, MySQL
-- **Key Contributions:**
-  - Designed and developed core backend REST APIs serving both web and mobile clients.
-  - Optimized data retrieval processes and ensured secure data handling for HR management.
+- **Menas:** Flask REST APIs for web/mobile; secure HR data handling (MySQL).  
+- **Tour Vietnam Airlines:** Reusable Node.js/Flask backend modules; performance tuning for resource allocation.
 
-#### **Tour Vietnam Airlines Project** (Resource Management System)
-- **Tech Stack:** Node.js, Python, Flask, MySQL
-- **Key Contributions:**
-  - Developed highly reusable backend modules, significantly reducing overall development time.
-  - Implemented backend performance optimizations to support complex resource allocation logic.
+### **Freelance** | Sep 2023 – May 2025
 
----
+**School platform** — Node.js, Express, MySQL  
+- RBAC, notification APIs, schema design, and SQL optimization for student/staff data.
 
-## 🌟 FEATURED PROJECTS (SYSTEM DESIGN & AI INTEGRATION)
+**Exam system upgrade** (Nov 2025 – Jan 2026) — Laravel, Express  
+- Backend behind load-balanced exam traffic; S3 → Google Drive API storage integration.
 
-### **AI-powered PDF Extraction & Anti-Plagiarism System** | Aug 2025 – Oct 2025
-- **Role:** Backend & AI Integration Developer | **Tech:** Python, Node.js
-- **Key Impact:** Architected the backend infrastructure to support an AI engine capable of extracting and analyzing PDF content. Designed the data processing pipeline for automated information categorization and efficient plagiarism detection algorithms.
-
-### **School Examination System Upgrade** | Nov 2025 – Jan 2026
-- **Role:** Backend Developer | **Tech:** PHP (Laravel), Express.js
-- **Key Impact:** 
-    - Re-architected backend services to integrate seamlessly with Load Balancing solutions during peak exam traffic.
-    - Developed custom API integrations migrating storage systems from AWS S3 to Google Drive API, substantially reducing infrastructure costs.
-
-### **AI-powered Career Suggestion System** | Mar 2025 – Apr 2026
-- **Role:** Backend Developer | **Tech:** Node.js, Applied AI Models
-- **Key Impact:** Built the core matching engine algorithms and backend APIs that process user capacity profiles against market demand data, enabling real-time intelligent career recommendations.
+**AI backends** (2025 – Present) — Python, Node.js  
+- PDF processing & plagiarism pipelines; career-matching engine APIs.
 
 ---
 
-## 🚀 OTHER PROJECTS
+## OTHER PROJECTS
 
-| Project | Role | Tech Stack | Key Contribution |
-| :--- | :--- | :--- | :--- |
-| **PVF Management System** | Backend Dev | Node.js, Express.js | Developed core backend modules and designed the API architecture. |
-| **Student Capacity (Exam)** | Backend Dev | Node.js, Express.js | Developed backend features, implemented secure exam delivery logic, and provided long-term maintenance. |
+**PVF Management** (PHP) — API & backend modules | **Student Capacity Exam** (Node.js, Express) — exam delivery logic & maintenance
 
 ---
 
-## 🎓 EDUCATION & ACHIEVEMENTS
+## EDUCATION & CERTIFICATIONS
 
-### **FPT Polytechnic College** | 2022 – 2024
-- **Major:** Website Programming
-- **Achievement:** **Second Prize** – Self-Driving Car Competition (Organized by FPT Education).
+**FPT Polytechnic College** (2022–2024) — Website Programming (Graduated) | 2nd Prize, FPT Self-Driving Car Competition  
+**Microsoft Certified:** Power Platform Developer Associate **(PL-400)**
