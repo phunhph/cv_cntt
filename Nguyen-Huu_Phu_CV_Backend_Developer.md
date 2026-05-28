@@ -56,5 +56,5 @@
 
 ## EDUCATION & CERTIFICATIONS
 
-**FPT Polytechnic College** (2022–2024) — Website Programming (Graduated) | 2nd Prize, FPT Self-Driving Car Competition  
+**FPT Polytechnic College** (2022–2024) — Website Programming (Graduated) | **GPA:** 3.8/4.0 | **Top 100** outstanding students | 2nd Prize, FPT Self-Driving Car Competition  
 **Microsoft Certified:** Power Platform Developer Associate **(PL-400)**
